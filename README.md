@@ -4,7 +4,7 @@ PumpFun offers project assistance tools for crypto projects.
 
 ## Features
 
-1. **Wallet Creation Instructions**: Easily create a wallet for tracking development or for micro-purchases. Save it in the root directory of the script.
+1. **Wallet Creation **: Easily create a wallet for tracking development or for micro-purchases. Save it in the root directory of the script.
 
 2. **Dev Tracking - Insider Trading**: Monitor the Dev wallet addresses. Upon the coin pump, execute immediate buys using wallets from `Dev_wallets.txt`. Transaction amounts are randomly chosen within a range defined by minimum and maximum transaction values to better conceal insider trading.
 
