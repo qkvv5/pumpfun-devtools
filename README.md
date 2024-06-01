@@ -12,6 +12,6 @@ PumpFun offers project assistance tools for crypto projects.
 
 ## Contact
 
-Join our community on Telegram: [PumpFun Official](https://t.me/pumpfun_official)
+ Telegram: [Telegram](https://t.me/pornhub_sol)
 
 ![PumpFun Logo](https://github.com/qkvv5/pumpfun-devtools/assets/40782902/f7c43995-e924-4b3b-986c-4a706ada39c7)
