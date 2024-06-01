@@ -10,6 +10,7 @@ Telegram:https://t.me/pornhub_sol
 pumpfun发盘辅助工具
 1. 创建钱包说明：创建Dev追踪或微购买所用的钱包，保存在脚本根目录。 
 2. Dev追踪-老鼠仓说明：监控Dev钱包地址，Pump发币第一时间用Dev_wallets.txt内的钱包买入，根据最小与最大交易金额采取区间随机值，更易隐藏老鼠仓。
+   
 3.微购卖说明：输入合约地址，设定交易金额与交易间隔，使用Micro_wallets.txt的钱包进行循环购买，让你的项目一直在Pumpfun首页曝光 
 
 Telegram:https://t.me/pornhub_sol
