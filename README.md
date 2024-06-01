@@ -8,7 +8,7 @@ PumpFun offers project assistance tools for crypto projects.
 
 2. **Dev Tracking - Insider Trading**: Monitor the Dev wallet addresses. Upon the coin pump, execute immediate buys using wallets from `Dev_wallets.txt`. Transaction amounts are randomly chosen within a range defined by minimum and maximum transaction values to better conceal insider trading.
 
-3. **Micro Selling**: Input the contract address, set the transaction amount and interval. Utilize wallets from `Micro_wallets.txt` for continuous purchasing, ensuring constant exposure of your project on the Pumpfun homepage.
+3. **Micro Buying**: Input the contract address, set the transaction amount and interval. Utilize wallets from `Micro_wallets.txt` for continuous purchasing, ensuring constant exposure of your project on the Pumpfun homepage.
 
 ## Contact
 
