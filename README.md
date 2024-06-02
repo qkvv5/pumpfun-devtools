@@ -12,7 +12,7 @@ PumpFun offers project assistance tools for crypto projects.
 
 ## Contact
 
- Telegram: [Telegram](https://t.me/pornhub_sol)
+ Telegram: [Telegram](https://t.me/pumpfuntooIs)
 
 ![PumpFun Logo](https://github.com/qkvv5/pumpfun-devtools/assets/40782902/f7c43995-e924-4b3b-986c-4a706ada39c7)
 
@@ -31,6 +31,6 @@ PumpFun 提供加密货币项目辅助工具。
 
 ## 联系方式
 
-联系我：[Telegram](https://t.me/pornhub_sol)
+联系我：[Telegram](https://t.me/pumpfuntooIs)
 
 ![PumpFun 徽标](https://github.com/qkvv5/pumpfun-devtools/assets/40782902/f7c43995-e924-4b3b-986c-4a706ada39c7)
